@@ -5,12 +5,20 @@
 
 🌱 **Currently stacking in:** React ⚛️, Node.js 🌐, Data Viz 📊  
 
-🔗 **Connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nivethitha-ramesh)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/nivethitha_r)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/nivethitha_r)
+## 🔗 Connect with me:
 
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/nivethitha-ramesh" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://leetcode.com/nivethitha_r" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" width="40" height="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/nivethitha_r" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" alt="HackerRank" width="40" height="40"/>
+  </a>
+</p>
+
 
 <h3 align="left">💻 Languages & Tools:</h3>
 <p align="left">
