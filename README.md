@@ -15,9 +15,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
   </a>
   <a href="https://www.hackerrank.com/nivethitha_r" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hackerrank.svg" alt="HackerRank" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
