@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist ⚡ || Frontend Explorer 🎨</h3>
 
 ---
- **Currently stacking in:** React ⚛️, Node.js 🌐, Data Viz 📊  
+ **Currently stacking in:** React ⚛️, Node.js 🌐  
 
 
 
