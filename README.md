@@ -40,7 +40,6 @@
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
       </a>
-      <br>Node.js
     </td>
     <td align="center">
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
