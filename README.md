@@ -1,11 +1,7 @@
-<h1 align="center"> Hello there, I'm Nivethitha ✨</h1>
+<h1 align="center"> Hello there, I'm Nivethitha Ramesh ✨</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
 ---
- **Currently stacking in:** React ⚛️, Node.js 🌐  
-
-
-
 ## 🔗 Connect with me
 
 <p align="left">
