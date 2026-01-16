@@ -1,5 +1,5 @@
 <h1 align="center"> Hello there, I'm Nivethitha ✨</h1>
-<h3 align="center">Aspiring Data Scientist ⚡ || Frontend Explorer 🎨</h3>
+<h3 align="center">Aspiring Software Engineer</h3>
 
 ---
  **Currently stacking in:** React ⚛️, Node.js 🌐  
@@ -58,7 +58,7 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
       </a>
-      <br>CSS3
+      <br>CSS
     </td>
     <td align="center">
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -108,7 +108,7 @@
       <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS" width="50" height="50"/>
       </a>
-      <br>AngularJS
+      <br>
     </td>
     <td></td>
     <td></td>
