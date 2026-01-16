@@ -28,50 +28,60 @@
     <th align="center">Databases</th>
   </tr>
 
+  <!-- ROW 1 -->
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/>
       <br>HTML
     </td>
-    <td></td>
+
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+      <br>Python
+    </td>
+
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/>
       <br>MongoDB
     </td>
   </tr>
 
+  <!-- ROW 2 -->
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/>
       <br>CSS
     </td>
+
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
-      <br>Python
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
+      <br>Java
     </td>
+
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
       <br>MySQL
     </td>
   </tr>
 
+  <!-- ROW 3 -->
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
       <br>JavaScript
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
-      <br>Java
-    </td>
+
+    <td></td>
     <td></td>
   </tr>
 
+  <!-- ROW 4 -->
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/>
       <br>React
     </td>
+
     <td></td>
     <td></td>
   </tr>
